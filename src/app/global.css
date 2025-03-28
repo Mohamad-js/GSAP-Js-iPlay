@@ -1,12 +1,28 @@
-body {
+* {
    margin: 0;
    padding: 0;
    box-sizing: border-box;
    font-family: vazirl;
    font-size: 20px;
+   user-select: none;
+}
+
+a {
+   text-decoration: none;
+   color: inherit;
 }
 
 @font-face {
    font-family: vazirl;
    src: url('/fonts/Vazir-light.ttf');
+}
+
+@font-face {
+   font-family: vazirm;
+   src: url('/fonts/Vazir-medium.ttf');
+}
+
+@font-face {
+   font-family: vazirb;
+   src: url('/fonts/Vazir-bold.ttf');
 }

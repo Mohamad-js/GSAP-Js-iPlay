@@ -4,4 +4,55 @@
    display: flex;
    justify-content: center;
    align-items: center;
+   display: flex;
+   justify-content: start;
+   align-items: center;
+   flex-direction: column;
+   padding-top: 50px;
+
+   
+   & .title {
+      position: relative;
+      font: 24px vazirl;
+      top: 0;
+   }
+   
+   & .searchField {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      
+      & .searchName {
+         font: 15px vazirl;
+         padding: 10px;
+         width: 500px;
+      }
+
+      & .searchPrice {
+         width: 300px;
+      }
+   }
+
+
+   & .productions {
+      position: relative;
+      top: 30px;
+      width: 100%;
+      height: 100vh;
+      display: flex;
+      align-items: start;
+      justify-content: start;
+      flex-wrap: wrap;
+      gap: 10px;
+      padding: 10px;
+   }
+
+   & .notFound {
+      width: 100%;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+   }
 }

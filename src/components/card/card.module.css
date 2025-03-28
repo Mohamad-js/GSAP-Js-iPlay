@@ -1,0 +1,91 @@
+& .proCard {
+   width: 250px;
+   background-color: white;
+   height: 400px;
+   font-size: 12px;
+   display: flex;
+   align-items: center;
+   justify-content: start;
+   flex-direction: column;
+   gap: 10px;
+   padding: 20px;
+   border: 1px solid rgb(199, 199, 199);
+   transition: 1s cubic-bezier(0.075, 0.82, 0.165, 1);
+   
+   
+   &:hover {
+      border: 1px solid rgb(100, 100, 100);
+   }
+
+   &:hover .imageHolder {
+      scale: 1.1;
+   }
+
+   & .imageHolder {
+      position: relative;
+      width: 100%;
+      height: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      transition: 1s cubic-bezier(0.075, 0.82, 0.165, 1);
+      
+      & .pic {
+         object-fit: cover;
+         width: 100%;
+      }
+   }
+   
+   & .proInfo {
+      width: 100%;
+      height: 50%;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+
+
+      & .name {
+         margin: 0;
+         font-size: 15px;
+         text-align: center;
+      }
+
+      & .priceArea {
+         width: 100%;
+         display: flex;
+         justify-content: space-between;
+         align-items: end;
+
+         & .priceHolder {
+            width: 100%;
+            height: fit-content;
+            display: flex;
+            align-items: end;
+            justify-content: end;
+            gap: 7px;
+            
+            
+            & .price {
+               font: 18px vazirl;
+               width: fit-content;
+               margin: 0
+            }
+            
+            & .currency {
+               width: fit-content;
+               font: 10px vazirb;
+               margin: 0;
+               padding-bottom: 5px;
+            }
+
+         }
+
+         & .availibility {
+            font: 15px vazirl;
+            outline: none;
+            border: none;
+            color: rgb(59, 59, 59);
+         }
+      }
+   }
+}

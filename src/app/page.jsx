@@ -1,5 +1,4 @@
 import styles from "./page.module.css";
-import "./global.css";
 
 
 export default function Home() {
