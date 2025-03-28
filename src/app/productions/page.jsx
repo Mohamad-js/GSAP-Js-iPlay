@@ -13,7 +13,7 @@ function Productions(){
    useEffect(() => {
       async function fetchProducts() {
          try {
-            const response = await fetch("http://localhost:3400/data", {cache: 'no-store'})
+            const response = await fetch("https://iplaystore.onrender.com", {cache: 'no-store'})
             const data = await response.json();
             setProducts(data.productions);
             setFilteredProducts(data.productions);
