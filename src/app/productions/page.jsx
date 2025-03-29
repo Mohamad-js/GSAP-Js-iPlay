@@ -9,14 +9,21 @@ function Productions(){
    const [searchName, setSearchName] = useState('');
    const [searchPrice, setSearchPrice] = useState(0);
 
+   // Determine the API URL based on the environment
+  const API_URL = process.env.NODE_ENV === 'development'
+  ? 'http://localhost:3400/data'
+  : 'https://iplay-backend.onrender.com/data';
+
 
    useEffect(() => {
       async function fetchProducts() {
          try {
-            const response = await fetch("https://iplaystore.onrender.com", {cache: 'no-store'})
+            const response = await fetch(API_URL, {cache: 'no-store'})
+            console.log(response.status);
             const data = await response.json();
-            setProducts(data.productions);
-            setFilteredProducts(data.productions);
+            console.log('API Response:', data); //
+            setProducts(data.data?.productions || []);
+            setFilteredProducts(data.data?.productions || []);
 
          } catch (error) {
             console.error(error);
@@ -61,7 +68,7 @@ function Productions(){
                <p>{searchPrice}</p>
             </div>
 
-            <div className={filteredProducts.length > 0 ? styles.productions : styles.notFound}>
+            <div className={filteredProducts?.length > 0 ? styles.productions : styles.notFound}>
                {
                   filteredProducts.length > 0 ?
                   filteredProducts.map((pro, index) => (
