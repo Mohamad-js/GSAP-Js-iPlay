@@ -4,7 +4,7 @@ import Image from 'next/image'
 
 
 
-function Card({id, src, alt, name, priceLabel}){
+function Card({id, src, alt, name, priceLabel, imgHover}){
 
 
 

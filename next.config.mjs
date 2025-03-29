@@ -4,13 +4,7 @@ const nextConfig = {
       remotePatterns: [
         {
           protocol: 'https', // allow this protocol
-          hostname: 'dkstatics-public.digikala.com', // we allow only this the hostname
-          port: '', // this is left empty for standard HTTPS
-          pathname: '/**', // we allow all paths under the hostname
-        },
-        {
-          protocol: 'https', // allow this protocol
-          hostname: 'images.samsung.com', // we allow only this the hostname
+          hostname: 'image-us.samsung.com', // we allow only this the hostname
           port: '', // this is left empty for standard HTTPS
           pathname: '/**', // we allow all paths under the hostname
         }

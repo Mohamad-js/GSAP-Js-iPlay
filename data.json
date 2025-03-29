@@ -9,7 +9,7 @@
          "colors": ["red", "blue", "black"],
          "images": {
             "main":{
-               "url": "https://dkstatics-public.digikala.com/digikala-products/dd458940260cd00ed0dd634eeca575f9636a76c9_1725964055.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-s23-ultra/images/gallery/phantomblack/01-DM3-PhantomBlack-PDP-1600x1200.jpg?$product-details-jpg$",
 
                "alt": "Samsung Galaxy Note 22"
             },
@@ -64,7 +64,7 @@
          "colors": ["red", "blue", "black"],
          "images": {
             "main":{
-               "url": "https://dkstatics-public.digikala.com/digikala-products/9215f6ea2fe115788a09dcb6836e78486d46b707_1725971909.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "url": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/cream/1_SDSAC-6420-PDP-SM-S711_GalaxyS23FE_Front_Cream-1600x1200.jpg?$product-details-jpg$",
 
                "alt": "Samsung Galaxy Note 22"
             },
@@ -119,7 +119,7 @@
          "colors": ["red", "blue", "black"],
          "images": {
             "main":{
-               "url": "https://dkstatics-public.digikala.com/digikala-products/2342ad87776c9801a8116d41950cb5909bddc16b_1738145086.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-s25/Gallery/PA3/PA3-01-TitaniumBlue-1600x1200.jpg?$product-details-jpg$",
 
                "alt": "Samsung Galaxy Note 22"
             },
@@ -174,7 +174,7 @@
          "colors": ["red", "blue", "black"],
          "images": {
             "main":{
-               "url": "https://dkstatics-public.digikala.com/digikala-products/c23b49b0be1c4ae5b2a3d7a3281d2f1731065243_1726037574.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-s24/all-gallery/01_E3_OnlineExclusive_TitaniumGreen_Lockup_1600x1200.jpg?$product-details-jpg$",
 
                "alt": "Samsung Galaxy Note 22"
             },
@@ -229,7 +229,7 @@
          "colors": ["red", "blue", "black"],
          "images": {
             "main":{
-               "url": "https://images.samsung.com/is/image/samsung/p6pim/iran/sm-s721bzabmea/gallery/iran-galaxy-s24-fe-s721-sm-s721bzabmea-543539626?$684_547_PNG$",
+               "url": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/09212024/01_SDSAC-8028-GalaxyS24FE_Blue_Front_RGB-1600x1200.jpg?$product-details-jpg$",
 
                "alt": "Samsung Galaxy Note 22"
             },
@@ -277,14 +277,14 @@
       },
       {
          "id": 6,
-         "name": "Samsung Galaxy A55",
+         "name": "Samsung Galaxy A36",
          "remains": 34,
          "priceLabel": "۲۰,۶۰۰,۰۰۰",
          "price": 20600000,
          "colors": ["red", "blue", "black"],
          "images": {
             "main":{
-               "url": "https://dkstatics-public.digikala.com/digikala-products/6af91760177b62291bdf6f3cd9ed583cd0092df3_1727521540.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "url": "https://image-us.samsung.com/SamsungUS/home/smartphones/galaxy-a36/product-gallery/02_SDSAC-8967-SM-A366_Galaxy-A36-5G_Awesome-Black_Front-RGB-1600x1200.jpg?$product-details-jpg$",
 
                "alt": "Samsung Galaxy Note 22"
             },
@@ -332,14 +332,14 @@
       },
       {
          "id": 7,
-         "name": "Xiaomi Pocco X7 Pro",
+         "name": "Samsung Gallaxy A16",
          "remains": 34,
          "priceLabel": "۲۰,۶۰۰,۰۰۰",
          "price": 20600000,
          "colors": ["red", "blue", "black"],
          "images": {
             "main":{
-               "url": "https://dkstatics-public.digikala.com/digikala-products/6144c3fdde10110e4312420db31e07f42e2cfc3a_1738146333.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "url": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/12122024/SDSAC-8512-1_A16_5G_Light-Gray_Front-Back-Lockup_RGB-1600x1200.jpg?$product-details-jpg$",
 
                "alt": "Samsung Galaxy Note 22"
             },
@@ -387,14 +387,14 @@
       },
       {
          "id": 8,
-         "name": "Xiaomi Pocco F6 Pro",
+         "name": "Samsung Galaxy Note 10",
          "remains": 34,
          "priceLabel": "۲۰,۶۰۰,۰۰۰",
          "price": 20600000,
          "colors": ["red", "blue", "black"],
          "images": {
             "main":{
-               "url": "https://dkstatics-public.digikala.com/digikala-products/b63851d0d5de404ebdb20b7fd40ff0828fd38eb6_1739620830.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-note10/gallery/aura_black/D1_AuraBlack_front_w_pen.png?$product-details-jpg$",
 
                "alt": "Samsung Galaxy Note 22"
             },
@@ -449,7 +449,7 @@
          "colors": ["red", "blue", "black"],
          "images": {
             "main":{
-               "url": "https://dkstatics-public.digikala.com/digikala-products/34213fed0e7594dd252e6ba24050f54f91b455aa_1741614862.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-s25/Gallery/PA2/PA2-01-Icyblue-1600x1200.jpg?$product-details-jpg$",
 
                "alt": "Samsung Galaxy Note 22"
             },
@@ -497,14 +497,14 @@
       },
       {
          "id": 10,
-         "name": "Nothing Phone 2",
+         "name": "Galaxy Z Fold5",
          "remains": 34,
          "priceLabel": "۲۰,۶۰۰,۰۰۰",
          "price": 20600000,
          "colors": ["red", "blue", "black"],
          "images": {
             "main":{
-               "url": "https://dkstatics-public.digikala.com/digikala-products/567161a8dcde1dca2eac0716683f86664d43b3f2_1725970994.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-z-fold5/Cream/1.jpg?$product-details-jpg$",
 
                "alt": "Samsung Galaxy Note 22"
             },

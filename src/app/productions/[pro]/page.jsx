@@ -3,7 +3,7 @@ import styles from './pro.module.css';
 // Generate static paths for dynamic routes (optional, but included for completeness)
 export async function generateStaticParams() {
   const API_URL = process.env.NODE_ENV === 'development'
-    ? 'http://localhost:3400/data'
+    ? 'http://localhost:3400/productions'
     : 'https://iplay-backend.onrender.com/data';
 
   try {
@@ -12,7 +12,7 @@ export async function generateStaticParams() {
       throw new Error('Failed to fetch products for static params');
     }
     const data = await response.json();
-    const products = data.productions || [];
+    const products = data || [];
     return products.map((product) => ({
       pro: product.id.toString(),
     }));
@@ -26,7 +26,7 @@ async function Pro({ params }) {
   const { pro } = await params; // No await needed, params is a plain object
 
   const API_URL = process.env.NODE_ENV === 'development'
-    ? 'http://localhost:3400/data'
+    ? 'http://localhost:3400/productions'
     : 'https://iplay-backend.onrender.com/data';
 
   try {
@@ -35,11 +35,14 @@ async function Pro({ params }) {
       throw new Error('Failed to fetch product data');
     }
     const data = await response.json();
-    const productions = data?.productions || [];
+    const productions = data || [];
+    console.log(productions);
 
     // Convert pro to a number and find the product by id
-    const productId = parseInt(pro, 10);
-    const production = productions.find((p) => p.id === productId);
+    const productId = parseInt(pro);
+    const production = productions.find((p) => p.id == productId);
+
+    console.log(production);
 
     // If production is not found, render a fallback
     if (!production) {
