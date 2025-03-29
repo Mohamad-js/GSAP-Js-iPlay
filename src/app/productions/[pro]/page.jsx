@@ -30,7 +30,7 @@ async function Pro({ params }) {
     : 'https://iplay-backend.onrender.com/data';
 
   try {
-    const response = await fetch(API_URL, { cache: 'no-store' });
+    const response = await fetch(API_URL, { next: { revalidate: 60 } })
     if (!response.ok) {
       throw new Error('Failed to fetch product data');
     }
