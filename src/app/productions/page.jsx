@@ -11,7 +11,7 @@ function Productions(){
 
    // Determine the API URL based on the environment
   const API_URL = process.env.NODE_ENV === 'development'
-  ? 'http://localhost:3400/productions'
+  ? 'http://localhost:3400/data'
   : 'https://iplay-backend.onrender.com/data';
 
 
@@ -22,8 +22,8 @@ function Productions(){
             console.log(response.status);
             const data = await response.json();
             console.log('API Response:', data); //
-            setProducts(data || []);
-            setFilteredProducts(data || []);
+            setProducts(data.productions || []);
+            setFilteredProducts(data.productions || []);
 
          } catch (error) {
             console.error(error);
