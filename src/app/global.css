@@ -14,15 +14,15 @@ a {
 
 @font-face {
    font-family: vazirl;
-   src: url('/fonts/Vazir-light.ttf');
+   src: url('/fonts/Vazir-Light.ttf') format('truetype');
 }
 
 @font-face {
    font-family: vazirm;
-   src: url('/fonts/Vazir-medium.ttf');
+   src: url('/fonts/Vazir-Medium.ttf') format('truetype');
 }
 
 @font-face {
    font-family: vazirb;
-   src: url('/fonts/Vazir-bold.ttf');
+   src: url('/fonts/Vazir-Bold.ttf') format('truetype');
 }
