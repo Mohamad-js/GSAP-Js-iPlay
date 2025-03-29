@@ -1,38 +1,5 @@
 import styles from './pro.module.css';
 
-// Generate static paths for dynamic routes (optional, but included for completeness)
-export async function generateStaticParams() {
-   const API_URL = 'https://iplay-backend.onrender.com/data'
-   const jsonApi = 'http://localhost:3400/productions'
- 
-
-  try {
-
-   if(process.env.NODE_ENV === 'development'){
-      const response = await fetch(API_URL, {cache: 'no-store'})
-      console.log(response.status);
-      const data = await response.json();
-      console.log('API Response:', data.productions); //
-
-
-   } else {
-
-      const response2 = await fetch(jsonApi, {cache: 'no-store'})
-      console.log(response2.status);
-      const data2 = await response2.json();
-      console.log('API Response2:', data2); //
-
-   }
-
-
-    return products.map((product) => ({
-      pro: product.id.toString(),
-    }));
-  } catch (error) {
-    console.error(error);
-    return [];
-  }
-}
 
 async function Pro({ params }) {
    let productions = []
