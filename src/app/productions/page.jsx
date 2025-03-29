@@ -9,35 +9,21 @@ function Productions(){
    const [searchName, setSearchName] = useState('');
    const [searchPrice, setSearchPrice] = useState(0);
 
-   // Determine the API URL based on the environment
-  const API_URL = 'https://iplay-backend.onrender.com/data'
-  const jsonApi = 'http://localhost:3400/productions'
+   // TO RUN IN SERVER
+  const API_URL = process.env.NODE_ENV === 'development'
+  ? 'http://localhost:3400/data'
+  : 'https://iplay-backend.onrender.com/data';
 
 
    useEffect(() => {
       async function fetchProducts() {
          try {
-
-            if(process.env.NODE_ENV === 'development'){
-               const response = await fetch(API_URL, {cache: 'no-store'})
-               console.log(response.status);
-               const data = await response.json();
-               console.log('API Response:', data); //
-               setProducts(data.productions || []);
-               setFilteredProducts(data.productions || []);
-
-            } else {
-
-               const response2 = await fetch(jsonApi, {cache: 'no-store'})
-               console.log(response2.status);
-               const data2 = await response2.json();
-               console.log('API Response2:', data2); //
-               setProducts(data2 || []);
-               setFilteredProducts(data2 || []);
-            }
-
-            
-
+            const response = await fetch(API_URL, {cache: 'no-store'})
+            console.log(response.status);
+            const data = await response.json();
+            console.log('API Response:', data); //
+            setProducts(data?.productions || []);
+            setFilteredProducts(data?.productions || []);
 
          } catch (error) {
             console.error(error);
@@ -46,6 +32,32 @@ function Productions(){
    
       fetchProducts();
    }, [])
+
+
+// TO RUN IN DEV WITH JSON
+// const API_URL = process.env.NODE_ENV === 'development'
+// ? 'http://localhost:3400/productions'
+// : 'https://iplay-backend.onrender.com/data';
+
+
+//  useEffect(() => {
+//     async function fetchProducts() {
+//        try {
+//           const response = await fetch(API_URL, {cache: 'no-store'})
+//           console.log(response.status);
+//           const data = await response.json();
+//           console.log('API Response:', data); //
+//           setProducts(data || []);
+//           setFilteredProducts(data || []);
+
+//        } catch (error) {
+//           console.error(error);
+//        }
+//     }
+ 
+//     fetchProducts();
+//  }, [])
+   
 
    // Filter products based on search inputs
    useEffect(() => {
@@ -89,7 +101,6 @@ function Productions(){
                         key={index}
                         id={pro.id}
                         src={pro.images.main.url}
-                        imgHover={pro.images.main.hover}
                         alt={pro.images.main.alt}
                         name={pro.name}
                         priceLabel = {pro.priceLabel}

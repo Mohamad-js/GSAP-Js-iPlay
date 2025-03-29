@@ -1,37 +1,69 @@
 import styles from './pro.module.css';
 
+// Generate static paths for dynamic routes (optional, but included for completeness)
+export async function generateStaticParams() {
 
-async function Pro({ params }) {
-   let productions = []
-
-  const { pro } = await params; // No await needed, params is a plain object
-
-  const API_URL = 'https://iplay-backend.onrender.com/data'
-  const jsonApi = 'http://localhost:3400/productions'
-
+   // TO RUN IN SERVER
+  const API_URL = process.env.NODE_ENV === 'development'
+    ? 'http://localhost:3400/data'
+    : 'https://iplay-backend.onrender.com/data';
 
   try {
-      if(process.env.NODE_ENV === 'development'){
-      const response = await fetch(API_URL, {cache: 'no-store'})
-      console.log(response.status);
-      const data = await response.json();
-      console.log('API Response:', data.productions); //
-      productions = data.productions
-      
-   } else {
-      
-      const response2 = await fetch(jsonApi, {cache: 'no-store'})
-      console.log(response2.status);
-      const data2 = await response2.json();
-      console.log('API Response2:', data2); //
-      productions = data2
-      }
+    const response = await fetch(API_URL, { next: { revalidate: 60 } });
+    if (!response.ok) {
+      throw new Error('Failed to fetch products for static params');
+    }
+    const data = await response.json();
+    const products = data.productions || [];
+    return products.map((product) => ({
+      pro: product.id.toString(),
+    }));
+  } catch (error) {
+    console.error(error);
+    return [];
+  }
+
+  // TO RUN IN JSON IN DEV MODE
+//   const API_URL = process.env.NODE_ENV === 'development'
+//     ? 'http://localhost:3400/data'
+//     : 'https://iplay-backend.onrender.com/data';
+
+//   try {
+//     const response = await fetch(API_URL, { next: { revalidate: 60 } });
+//     if (!response.ok) {
+//       throw new Error('Failed to fetch products for static params');
+//     }
+//     const data = await response.json();
+//     const products = data || [];
+//     return products.map((product) => ({
+//       pro: product.id.toString(),
+//     }));
+//   } catch (error) {
+//     console.error(error);
+//     return [];
+//   }
+
+
+}
+
+async function Pro({ params }) {
+  const { pro } = await params; // No await needed, params is a plain object
+
+  const API_URL = process.env.NODE_ENV === 'development'
+    ? 'http://localhost:3400/data'
+    : 'https://iplay-backend.onrender.com/data';
+
+  try {
+    const response = await fetch(API_URL, { next: { revalidate: 60 } })
+    if (!response.ok) {
+      throw new Error('Failed to fetch product data');
+    }
+    const data = await response.json();
+    const productions = data?.productions || [];
 
     // Convert pro to a number and find the product by id
-    const productId = parseInt(pro);
-    const production = productions.find((p) => p.id == productId);
-
-    console.log(production);
+    const productId = parseInt(pro, 10);
+    const production = productions.find((p) => p.id === productId);
 
     // If production is not found, render a fallback
     if (!production) {
