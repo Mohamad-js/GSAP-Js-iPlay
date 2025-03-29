@@ -22,8 +22,8 @@ function Productions(){
             console.log(response.status);
             const data = await response.json();
             console.log('API Response:', data); //
-            setProducts(data.data?.productions || []);
-            setFilteredProducts(data.data?.productions || []);
+            setProducts(data?.productions || []);
+            setFilteredProducts(data?.productions || []);
 
          } catch (error) {
             console.error(error);

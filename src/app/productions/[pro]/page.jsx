@@ -35,7 +35,7 @@ async function Pro({ params }) {
       throw new Error('Failed to fetch product data');
     }
     const data = await response.json();
-    const productions = data.data?.productions || [];
+    const productions = data?.productions || [];
 
     // Convert pro to a number and find the product by id
     const productId = parseInt(pro, 10);
