@@ -2,17 +2,29 @@ import styles from './pro.module.css';
 
 // Generate static paths for dynamic routes (optional, but included for completeness)
 export async function generateStaticParams() {
-  const API_URL = process.env.NODE_ENV === 'development'
-    ? 'http://localhost:3400/data'
-    : 'https://iplay-backend.onrender.com/data';
+   const API_URL = 'https://iplay-backend.onrender.com/data'
+   const jsonApi = 'http://localhost:3400/productions'
+ 
 
   try {
-    const response = await fetch(API_URL, { next: { revalidate: 60 } });
-    if (!response.ok) {
-      throw new Error('Failed to fetch products for static params');
-    }
-    const data = await response.json();
-    const products = data?.productions || [];
+
+   if(process.env.NODE_ENV === 'development'){
+      const response = await fetch(API_URL, {cache: 'no-store'})
+      console.log(response.status);
+      const data = await response.json();
+      console.log('API Response:', data.productions); //
+
+
+   } else {
+
+      const response2 = await fetch(jsonApi, {cache: 'no-store'})
+      console.log(response2.status);
+      const data2 = await response2.json();
+      console.log('API Response2:', data2); //
+
+   }
+
+
     return products.map((product) => ({
       pro: product.id.toString(),
     }));
@@ -23,20 +35,30 @@ export async function generateStaticParams() {
 }
 
 async function Pro({ params }) {
+   let productions = []
+
   const { pro } = await params; // No await needed, params is a plain object
 
-  const API_URL = process.env.NODE_ENV === 'development'
-    ? 'http://localhost:3400/data'
-    : 'https://iplay-backend.onrender.com/data';
+  const API_URL = 'https://iplay-backend.onrender.com/data'
+  const jsonApi = 'http://localhost:3400/productions'
+
 
   try {
-    const response = await fetch(API_URL, { next: { revalidate: 60 } })
-    if (!response.ok) {
-      throw new Error('Failed to fetch product data');
-    }
-    const data = await response.json();
-    const productions = data?.productions || [];
-    console.log(productions);
+      if(process.env.NODE_ENV === 'development'){
+      const response = await fetch(API_URL, {cache: 'no-store'})
+      console.log(response.status);
+      const data = await response.json();
+      console.log('API Response:', data.productions); //
+      productions = data.productions
+      
+   } else {
+      
+      const response2 = await fetch(jsonApi, {cache: 'no-store'})
+      console.log(response2.status);
+      const data2 = await response2.json();
+      console.log('API Response2:', data2); //
+      productions = data2
+      }
 
     // Convert pro to a number and find the product by id
     const productId = parseInt(pro);
