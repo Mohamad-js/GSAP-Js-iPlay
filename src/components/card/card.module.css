@@ -158,9 +158,9 @@
                      width: fit-content;
                      font: 10px vazirb;
                      margin: 0;
-                     padding-bottom: 5px;
+                     padding-bottom: 4px;
                   }
-      
+                  
                   & .sendDate {
                      font: 15px vazirm;
                      width: fit-content;

@@ -3,6 +3,7 @@ import styles from './productions.module.css'
 import { useState, useEffect } from 'react'
 import Card from '@/components/card/card'
 import { FaGreaterThan } from "react-icons/fa6";
+import Loading from '../loading';
 
 
 function Productions(){
@@ -127,7 +128,7 @@ function Productions(){
                            ram={pro.info.ram}
                         />
                      ))
-                     : <p>کالایی یافت نشد</p>
+                     : <Loading />
                   }
 
                </div>

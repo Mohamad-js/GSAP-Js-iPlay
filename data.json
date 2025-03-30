@@ -559,6 +559,2358 @@
             "battery": "",
             "charge": ""
          }
+      },
+      {
+         "id": 1,
+         "name": "Samsung Galaxy S23 Ultra",
+         "remains": 34,
+         "priceLabel": "۴۵,۶۰۰,۰۰۰",
+         "price": 45600000,
+         "colors": ["red", "blue", "black"],
+         "send": "امروز",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-s23-ultra/images/gallery/phantomblack/01-DM3-PhantomBlack-PDP-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": ["256GB", "512GB"],
+            "ram": ["8GB", "12GB"],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 2,
+         "name": "Samsung Galaxy S23 FE",
+         "remains": 0,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/cream/1_SDSAC-6420-PDP-SM-S711_GalaxyS23FE_Front_Cream-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 3,
+         "name": "Samsung Galaxy S25 Ultra",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "فردا",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-s25/Gallery/PA3/PA3-01-TitaniumBlue-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": ["256GB", "512GB", "1TB"],
+            "ram": ["12GB"],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 4,
+         "name": "Samsung Galaxy S24 Ultra",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "امروز",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-s24/all-gallery/01_E3_OnlineExclusive_TitaniumGreen_Lockup_1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 5,
+         "name": "Samsung Galaxy S24 FE",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "امروز",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/09212024/01_SDSAC-8028-GalaxyS24FE_Blue_Front_RGB-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 6,
+         "name": "Samsung Galaxy A36",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "فردا",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/SamsungUS/home/smartphones/galaxy-a36/product-gallery/02_SDSAC-8967-SM-A366_Galaxy-A36-5G_Awesome-Black_Front-RGB-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 7,
+         "name": "Samsung Gallaxy A16",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "امروز",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/12122024/SDSAC-8512-1_A16_5G_Light-Gray_Front-Back-Lockup_RGB-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 8,
+         "name": "Samsung Galaxy Note 10",
+         "remains": 0,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-note10/gallery/aura_black/D1_AuraBlack_front_w_pen.png?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 9,
+         "name": "Samsung S25 Plus",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "فردا",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-s25/Gallery/PA2/PA2-01-Icyblue-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 10,
+         "name": "Galaxy Z Fold5",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "امروز",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-z-fold5/Cream/1.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 1,
+         "name": "Samsung Galaxy S23 Ultra",
+         "remains": 34,
+         "priceLabel": "۴۵,۶۰۰,۰۰۰",
+         "price": 45600000,
+         "colors": ["red", "blue", "black"],
+         "send": "امروز",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-s23-ultra/images/gallery/phantomblack/01-DM3-PhantomBlack-PDP-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": ["256GB", "512GB"],
+            "ram": ["8GB", "12GB"],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 2,
+         "name": "Samsung Galaxy S23 FE",
+         "remains": 0,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/cream/1_SDSAC-6420-PDP-SM-S711_GalaxyS23FE_Front_Cream-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 3,
+         "name": "Samsung Galaxy S25 Ultra",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "فردا",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-s25/Gallery/PA3/PA3-01-TitaniumBlue-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": ["256GB", "512GB", "1TB"],
+            "ram": ["12GB"],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 4,
+         "name": "Samsung Galaxy S24 Ultra",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "امروز",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-s24/all-gallery/01_E3_OnlineExclusive_TitaniumGreen_Lockup_1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 5,
+         "name": "Samsung Galaxy S24 FE",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "امروز",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/09212024/01_SDSAC-8028-GalaxyS24FE_Blue_Front_RGB-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 6,
+         "name": "Samsung Galaxy A36",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "فردا",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/SamsungUS/home/smartphones/galaxy-a36/product-gallery/02_SDSAC-8967-SM-A366_Galaxy-A36-5G_Awesome-Black_Front-RGB-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 7,
+         "name": "Samsung Gallaxy A16",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "امروز",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/12122024/SDSAC-8512-1_A16_5G_Light-Gray_Front-Back-Lockup_RGB-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 8,
+         "name": "Samsung Galaxy Note 10",
+         "remains": 0,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-note10/gallery/aura_black/D1_AuraBlack_front_w_pen.png?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 9,
+         "name": "Samsung S25 Plus",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "فردا",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-s25/Gallery/PA2/PA2-01-Icyblue-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 10,
+         "name": "Galaxy Z Fold5",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "امروز",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-z-fold5/Cream/1.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 1,
+         "name": "Samsung Galaxy S23 Ultra",
+         "remains": 34,
+         "priceLabel": "۴۵,۶۰۰,۰۰۰",
+         "price": 45600000,
+         "colors": ["red", "blue", "black"],
+         "send": "امروز",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-s23-ultra/images/gallery/phantomblack/01-DM3-PhantomBlack-PDP-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": ["256GB", "512GB"],
+            "ram": ["8GB", "12GB"],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 2,
+         "name": "Samsung Galaxy S23 FE",
+         "remains": 0,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/cream/1_SDSAC-6420-PDP-SM-S711_GalaxyS23FE_Front_Cream-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 3,
+         "name": "Samsung Galaxy S25 Ultra",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "فردا",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-s25/Gallery/PA3/PA3-01-TitaniumBlue-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": ["256GB", "512GB", "1TB"],
+            "ram": ["12GB"],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 4,
+         "name": "Samsung Galaxy S24 Ultra",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "امروز",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-s24/all-gallery/01_E3_OnlineExclusive_TitaniumGreen_Lockup_1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 5,
+         "name": "Samsung Galaxy S24 FE",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "امروز",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/09212024/01_SDSAC-8028-GalaxyS24FE_Blue_Front_RGB-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 6,
+         "name": "Samsung Galaxy A36",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "فردا",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/SamsungUS/home/smartphones/galaxy-a36/product-gallery/02_SDSAC-8967-SM-A366_Galaxy-A36-5G_Awesome-Black_Front-RGB-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 7,
+         "name": "Samsung Gallaxy A16",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "امروز",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/12122024/SDSAC-8512-1_A16_5G_Light-Gray_Front-Back-Lockup_RGB-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 8,
+         "name": "Samsung Galaxy Note 10",
+         "remains": 0,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-note10/gallery/aura_black/D1_AuraBlack_front_w_pen.png?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 9,
+         "name": "Samsung S25 Plus",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "فردا",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-s25/Gallery/PA2/PA2-01-Icyblue-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 10,
+         "name": "Galaxy Z Fold5",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "امروز",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-z-fold5/Cream/1.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 1,
+         "name": "Samsung Galaxy S23 Ultra",
+         "remains": 34,
+         "priceLabel": "۴۵,۶۰۰,۰۰۰",
+         "price": 45600000,
+         "colors": ["red", "blue", "black"],
+         "send": "امروز",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-s23-ultra/images/gallery/phantomblack/01-DM3-PhantomBlack-PDP-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": ["256GB", "512GB"],
+            "ram": ["8GB", "12GB"],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 2,
+         "name": "Samsung Galaxy S23 FE",
+         "remains": 0,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/cream/1_SDSAC-6420-PDP-SM-S711_GalaxyS23FE_Front_Cream-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 3,
+         "name": "Samsung Galaxy S25 Ultra",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "فردا",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-s25/Gallery/PA3/PA3-01-TitaniumBlue-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": ["256GB", "512GB", "1TB"],
+            "ram": ["12GB"],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 4,
+         "name": "Samsung Galaxy S24 Ultra",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "امروز",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-s24/all-gallery/01_E3_OnlineExclusive_TitaniumGreen_Lockup_1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 5,
+         "name": "Samsung Galaxy S24 FE",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "امروز",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/09212024/01_SDSAC-8028-GalaxyS24FE_Blue_Front_RGB-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 6,
+         "name": "Samsung Galaxy A36",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "فردا",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/SamsungUS/home/smartphones/galaxy-a36/product-gallery/02_SDSAC-8967-SM-A366_Galaxy-A36-5G_Awesome-Black_Front-RGB-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 7,
+         "name": "Samsung Gallaxy A16",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "امروز",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/12122024/SDSAC-8512-1_A16_5G_Light-Gray_Front-Back-Lockup_RGB-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 8,
+         "name": "Samsung Galaxy Note 10",
+         "remains": 0,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-note10/gallery/aura_black/D1_AuraBlack_front_w_pen.png?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 9,
+         "name": "Samsung S25 Plus",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "فردا",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-s25/Gallery/PA2/PA2-01-Icyblue-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 10,
+         "name": "Galaxy Z Fold5",
+         "remains": 34,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "امروز",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-z-fold5/Cream/1.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 1,
+         "name": "Samsung Galaxy S23 Ultra",
+         "remains": 34,
+         "priceLabel": "۴۵,۶۰۰,۰۰۰",
+         "price": 45600000,
+         "colors": ["red", "blue", "black"],
+         "send": "امروز",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/us/smartphones/galaxy-s23-ultra/images/gallery/phantomblack/01-DM3-PhantomBlack-PDP-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": ["256GB", "512GB"],
+            "ram": ["8GB", "12GB"],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
+      },
+      {
+         "id": 2,
+         "name": "Samsung Galaxy S23 FE",
+         "remains": 0,
+         "priceLabel": "۲۰,۶۰۰,۰۰۰",
+         "price": 20600000,
+         "colors": ["red", "blue", "black"],
+         "send": "",
+         "images": {
+            "main":{
+               "url": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/cream/1_SDSAC-6420-PDP-SM-S711_GalaxyS23FE_Front_Cream-1600x1200.jpg?$product-details-jpg$",
+
+               "alt": "Samsung Galaxy Note 22"
+            },
+
+            "gallery": [
+               "https://dkstatics-public.digikala.com/digikala-products/83a9230095c2e12e46351040d1de54fe92260175_1727269170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/674b6bdf8f2d3951fd8e39e7a295ab4c1b1f6986_1727704989.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/b37064d02adc4e075b171fc99e0c9de993d15e68_1727269180.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+               "https://dkstatics-public.digikala.com/digikala-products/6715d42775379b09670c4b5afa5cc29e8ff8bdf9_1727269189.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+            ]
+         },
+         "comments": [
+            {
+               "name": "رضا صالحی",
+               "phone": 9123456575,
+               "comment": "خیلی محصول خوبیه واقعا دوسش دارم"
+            },
+            {
+               "name": "داداش رضا",
+               "phone": 9125656565,
+               "comment": "رضا زر زیاد میزنه!"
+            }
+         ],
+         "info": {
+            "os": "android 13",
+            "level": "پرچم دار",
+            "model": "",
+            "release": "",
+            "weight": "",
+            "cim": "",
+            "refresh rate": "",
+            "brightness": "",
+            "resolution": "",
+            "chipset": "",
+            "processor": "",
+            "memory": [],
+            "ram": [],
+            "network": "",
+            "technologies": "",
+            "frontCam": "",
+            "backCam": "",
+            "battery": "",
+            "charge": ""
+         }
       }
    ]
 

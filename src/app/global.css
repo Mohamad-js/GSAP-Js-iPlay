@@ -26,3 +26,16 @@ a {
    font-family: vazirb;
    src: url('/fonts/Vazir-Bold.ttf') format('truetype');
 }
+
+html {
+   overflow: hidden; /* Disable native scrolling */
+}
+
+body {
+   overflow: hidden; /* Disable native scrolling */
+}
+
+.productionsHolder {
+   overflow-y: auto; /* Enable scrolling within the container */
+   -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+}
