@@ -1,51 +1,105 @@
 .container {
+   position: fixed;
    width: 100%;
    height: 100vh;
    display: flex;
-   justify-content: center;
-   align-items: center;
-   display: flex;
    justify-content: start;
    align-items: center;
-   flex-direction: column;
    padding-top: 50px;
+   background-color: #dcd7c9;
 
    
-   & .title {
-      position: relative;
-      font: 24px vazirl;
-      top: 0;
-   }
    
-   & .searchField {
-      width: 100%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      
-      & .searchName {
-         font: 15px vazirl;
-         padding: 10px;
-         width: 500px;
-      }
-
-      & .searchPrice {
-         width: 300px;
-      }
-   }
-
-
-   & .productions {
+   & .filterHolder {
       position: relative;
-      top: 30px;
-      width: 100%;
-      height: 100vh;
+      height: fit-content;
+      right: 0;
+      width: 300px;
       display: flex;
       align-items: start;
-      justify-content: start;
+      box-shadow: -3px 1px 10px 1px rgba(0, 0, 0, 0.616);
+      transition: 1s;
+      
+      
+      & .filter {  
+         position: relative;       
+         right: 0;
+         top: 0;
+         width: 100%;
+         height: 100vh;
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+         justify-content: center;
+         background-color: #cc84f3;
+
+         & .close {
+            position: absolute;
+            inset: 70px auto auto 20px;
+            padding: 10px;
+            background-color: #2e073f;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 10px;
+            rotate: 0;
+            transition: 1s;
+         }
+
+         & .open {
+            rotate: 180deg;
+         }
+
+         & .title {
+            position: relative;
+            font: 24px vazirl;
+            top: 0;
+         }
+   
+   
+         & .searchName {
+            font: 15px vazirl;
+            padding: 10px;
+            width: 200px;
+         }
+   
+         & .searchPrice {
+            width: 200px;
+         }
+
+      }
+      
+   }
+
+   & .closed {
+      right: -180px;
+      transition: 1s;
+   }
+
+
+   & .productionsHolder {
+      position: relative;
+      overflow-y: scroll;
+      top: 0;
+      padding: 70px 0;
+      display: flex;
       flex-wrap: wrap;
-      gap: 10px;
-      padding: 10px;
+      justify-content: center;
+      align-items: start;
+      width: 100%;
+      height: 100vh;
+
+      & .productions {
+         position: relative;
+         width: 1050px;
+         display: flex;
+         align-items: start;
+         justify-content: start;
+         flex-wrap: wrap;
+         gap: 10px;
+         padding: 10px;
+      }
    }
 
    & .notFound {

@@ -4,26 +4,6 @@ import styles from './pro.module.css';
 export async function generateStaticParams() {
 
    // TO RUN IN SERVER
-  const API_URL = process.env.NODE_ENV === 'development'
-    ? 'http://localhost:3400/data'
-    : 'https://iplay-backend.onrender.com/data';
-
-  try {
-    const response = await fetch(API_URL, { next: { revalidate: 60 } });
-    if (!response.ok) {
-      throw new Error('Failed to fetch products for static params');
-    }
-    const data = await response.json();
-    const products = data.productions || [];
-    return products.map((product) => ({
-      pro: product.id.toString(),
-    }));
-  } catch (error) {
-    console.error(error);
-    return [];
-  }
-
-  // TO RUN IN JSON IN DEV MODE
 //   const API_URL = process.env.NODE_ENV === 'development'
 //     ? 'http://localhost:3400/data'
 //     : 'https://iplay-backend.onrender.com/data';
@@ -34,7 +14,7 @@ export async function generateStaticParams() {
 //       throw new Error('Failed to fetch products for static params');
 //     }
 //     const data = await response.json();
-//     const products = data || [];
+//     const products = data.productions || [];
 //     return products.map((product) => ({
 //       pro: product.id.toString(),
 //     }));
@@ -42,6 +22,26 @@ export async function generateStaticParams() {
 //     console.error(error);
 //     return [];
 //   }
+
+  // TO RUN IN JSON IN DEV MODE
+  const API_URL = process.env.NODE_ENV === 'development'
+    ? 'http://localhost:3400/data'
+    : 'https://iplay-backend.onrender.com/data';
+
+  try {
+    const response = await fetch(API_URL, { next: { revalidate: 60 } });
+    if (!response.ok) {
+      throw new Error('Failed to fetch products for static params');
+    }
+    const data = await response.json();
+    const products = data || [];
+    return products.map((product) => ({
+      pro: product.id.toString(),
+    }));
+  } catch (error) {
+    console.error(error);
+    return [];
+  }
 
 
 }

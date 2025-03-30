@@ -1,20 +1,20 @@
 & .proCard {
    width: 250px;
-   background-color: white;
+   background-color: rgb(255, 255, 255);
    height: 400px;
    font-size: 12px;
    display: flex;
    align-items: center;
+   border-radius: 0;
    justify-content: start;
    flex-direction: column;
    gap: 10px;
    padding: 20px;
-   border: 1px solid rgb(199, 199, 199);
    transition: 1s cubic-bezier(0.075, 0.82, 0.165, 1);
    
    
    &:hover {
-      border: 1px solid rgb(100, 100, 100);
+      box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.473);
    }
 
    &:hover .imageHolder {
@@ -51,41 +51,133 @@
          text-align: center;
       }
 
+      & .softwareInfo {
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+         justify-content: center;
+         gap: 7px;
+
+         & .ramHolder {
+            display: flex;
+            width: 100%;
+            justify-content: space-between;
+
+            & .ramTitle {
+               color: rgb(117, 117, 117);
+               font: 13px vazirm;
+            }
+
+            & .ram {
+               width: fit-content;
+               display: flex;
+               gap: 10px;
+
+
+               & .ramNumber {
+                  color: rgb(117, 117, 117);
+                  font: 13px vazirl;
+               }
+
+            }
+
+         }
+         
+         & .memoryHolder {
+            display: flex;
+            width: 100%;
+            justify-content: space-between;
+            
+            
+            & .memoryTitle {
+               color: rgb(117, 117, 117);
+               font: 13px vazirm;
+            }
+
+            & .memory {
+               display: flex;
+               gap: 10px;
+
+               & .memoryNumber {
+                  color: rgb(117, 117, 117);
+                  font: 13px vazirl;
+               }
+
+            }
+            
+         }
+      }
+
       & .priceArea {
          width: 100%;
          display: flex;
          justify-content: space-between;
          align-items: end;
 
-         & .priceHolder {
-            width: 100%;
-            height: fit-content;
-            display: flex;
-            align-items: end;
-            justify-content: end;
-            gap: 7px;
-            
-            
-            & .price {
-               font: 18px vazirl;
-               width: fit-content;
-               margin: 0
-            }
-            
-            & .currency {
-               width: fit-content;
-               font: 10px vazirb;
-               margin: 0;
-               padding-bottom: 5px;
-            }
-
-         }
-
+         
          & .availibility {
-            font: 15px vazirl;
+            width: 100%;
             outline: none;
             border: none;
             color: rgb(59, 59, 59);
+
+            & .bottomCard {
+               width: 100%;
+               height: 40px;
+               display: flex;
+               align-items: END;
+
+
+               & .avalHolder {
+                  display: flex;
+                  gap: 5px;
+                  align-items: end;
+                  
+                  & .remainsNumber {
+                     font: 13px vazirb;
+                     color: rgb(65, 65, 65);
+                  }
+                  
+                  & .remainsTitle {
+                     font: 13px vazirl;
+                     color: rgb(65, 65, 65);
+                  }
+               }
+   
+               & .sendHolder {
+                  width: 100%;
+                  height: fit-content;
+                  display: flex;
+                  align-items: end;
+                  justify-content: end;
+                  gap: 7px;
+                  
+                  
+                  
+                  & .sendTitle {
+                     width: fit-content;
+                     font: 10px vazirb;
+                     margin: 0;
+                     padding-bottom: 5px;
+                  }
+      
+                  & .sendDate {
+                     font: 15px vazirm;
+                     width: fit-content;
+                     margin: 0;
+                     color: blue;
+                  }
+      
+               }
+            }
+            
+            
+            & .finished {
+               font: 15px vazirb;
+               color: red;
+               width: 100%;
+               text-align: center;
+            }
          }
       }
    }

@@ -7,6 +7,7 @@
          "priceLabel": "۴۵,۶۰۰,۰۰۰",
          "price": 45600000,
          "colors": ["red", "blue", "black"],
+         "send": "امروز",
          "images": {
             "main":{
                "url": "https://image-us.samsung.com/us/smartphones/galaxy-s23-ultra/images/gallery/phantomblack/01-DM3-PhantomBlack-PDP-1600x1200.jpg?$product-details-jpg$",
@@ -45,8 +46,8 @@
             "resolution": "",
             "chipset": "",
             "processor": "",
-            "memory": "",
-            "RAM": "",
+            "memory": ["256GB", "512GB"],
+            "ram": ["8GB", "12GB"],
             "network": "",
             "technologies": "",
             "frontCam": "",
@@ -58,10 +59,11 @@
       {
          "id": 2,
          "name": "Samsung Galaxy S23 FE",
-         "remains": 34,
+         "remains": 0,
          "priceLabel": "۲۰,۶۰۰,۰۰۰",
          "price": 20600000,
          "colors": ["red", "blue", "black"],
+         "send": "",
          "images": {
             "main":{
                "url": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/cream/1_SDSAC-6420-PDP-SM-S711_GalaxyS23FE_Front_Cream-1600x1200.jpg?$product-details-jpg$",
@@ -100,8 +102,8 @@
             "resolution": "",
             "chipset": "",
             "processor": "",
-            "memory": "",
-            "RAM": "",
+            "memory": [],
+            "ram": [],
             "network": "",
             "technologies": "",
             "frontCam": "",
@@ -117,6 +119,7 @@
          "priceLabel": "۲۰,۶۰۰,۰۰۰",
          "price": 20600000,
          "colors": ["red", "blue", "black"],
+         "send": "فردا",
          "images": {
             "main":{
                "url": "https://image-us.samsung.com/us/smartphones/galaxy-s25/Gallery/PA3/PA3-01-TitaniumBlue-1600x1200.jpg?$product-details-jpg$",
@@ -155,8 +158,8 @@
             "resolution": "",
             "chipset": "",
             "processor": "",
-            "memory": "",
-            "RAM": "",
+            "memory": ["256GB", "512GB", "1TB"],
+            "ram": ["12GB"],
             "network": "",
             "technologies": "",
             "frontCam": "",
@@ -172,6 +175,7 @@
          "priceLabel": "۲۰,۶۰۰,۰۰۰",
          "price": 20600000,
          "colors": ["red", "blue", "black"],
+         "send": "امروز",
          "images": {
             "main":{
                "url": "https://image-us.samsung.com/us/smartphones/galaxy-s24/all-gallery/01_E3_OnlineExclusive_TitaniumGreen_Lockup_1600x1200.jpg?$product-details-jpg$",
@@ -210,8 +214,8 @@
             "resolution": "",
             "chipset": "",
             "processor": "",
-            "memory": "",
-            "RAM": "",
+            "memory": [],
+            "ram": [],
             "network": "",
             "technologies": "",
             "frontCam": "",
@@ -227,6 +231,7 @@
          "priceLabel": "۲۰,۶۰۰,۰۰۰",
          "price": 20600000,
          "colors": ["red", "blue", "black"],
+         "send": "امروز",
          "images": {
             "main":{
                "url": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/09212024/01_SDSAC-8028-GalaxyS24FE_Blue_Front_RGB-1600x1200.jpg?$product-details-jpg$",
@@ -265,8 +270,8 @@
             "resolution": "",
             "chipset": "",
             "processor": "",
-            "memory": "",
-            "RAM": "",
+            "memory": [],
+            "ram": [],
             "network": "",
             "technologies": "",
             "frontCam": "",
@@ -282,6 +287,7 @@
          "priceLabel": "۲۰,۶۰۰,۰۰۰",
          "price": 20600000,
          "colors": ["red", "blue", "black"],
+         "send": "فردا",
          "images": {
             "main":{
                "url": "https://image-us.samsung.com/SamsungUS/home/smartphones/galaxy-a36/product-gallery/02_SDSAC-8967-SM-A366_Galaxy-A36-5G_Awesome-Black_Front-RGB-1600x1200.jpg?$product-details-jpg$",
@@ -320,8 +326,8 @@
             "resolution": "",
             "chipset": "",
             "processor": "",
-            "memory": "",
-            "RAM": "",
+            "memory": [],
+            "ram": [],
             "network": "",
             "technologies": "",
             "frontCam": "",
@@ -337,6 +343,7 @@
          "priceLabel": "۲۰,۶۰۰,۰۰۰",
          "price": 20600000,
          "colors": ["red", "blue", "black"],
+         "send": "امروز",
          "images": {
             "main":{
                "url": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/12122024/SDSAC-8512-1_A16_5G_Light-Gray_Front-Back-Lockup_RGB-1600x1200.jpg?$product-details-jpg$",
@@ -375,8 +382,8 @@
             "resolution": "",
             "chipset": "",
             "processor": "",
-            "memory": "",
-            "RAM": "",
+            "memory": [],
+            "ram": [],
             "network": "",
             "technologies": "",
             "frontCam": "",
@@ -388,10 +395,11 @@
       {
          "id": 8,
          "name": "Samsung Galaxy Note 10",
-         "remains": 34,
+         "remains": 0,
          "priceLabel": "۲۰,۶۰۰,۰۰۰",
          "price": 20600000,
          "colors": ["red", "blue", "black"],
+         "send": "",
          "images": {
             "main":{
                "url": "https://image-us.samsung.com/us/smartphones/galaxy-note10/gallery/aura_black/D1_AuraBlack_front_w_pen.png?$product-details-jpg$",
@@ -430,8 +438,8 @@
             "resolution": "",
             "chipset": "",
             "processor": "",
-            "memory": "",
-            "RAM": "",
+            "memory": [],
+            "ram": [],
             "network": "",
             "technologies": "",
             "frontCam": "",
@@ -447,6 +455,7 @@
          "priceLabel": "۲۰,۶۰۰,۰۰۰",
          "price": 20600000,
          "colors": ["red", "blue", "black"],
+         "send": "فردا",
          "images": {
             "main":{
                "url": "https://image-us.samsung.com/us/smartphones/galaxy-s25/Gallery/PA2/PA2-01-Icyblue-1600x1200.jpg?$product-details-jpg$",
@@ -485,8 +494,8 @@
             "resolution": "",
             "chipset": "",
             "processor": "",
-            "memory": "",
-            "RAM": "",
+            "memory": [],
+            "ram": [],
             "network": "",
             "technologies": "",
             "frontCam": "",
@@ -502,6 +511,7 @@
          "priceLabel": "۲۰,۶۰۰,۰۰۰",
          "price": 20600000,
          "colors": ["red", "blue", "black"],
+         "send": "امروز",
          "images": {
             "main":{
                "url": "https://image-us.samsung.com/us/smartphones/galaxy-z-fold5/Cream/1.jpg?$product-details-jpg$",
@@ -540,8 +550,8 @@
             "resolution": "",
             "chipset": "",
             "processor": "",
-            "memory": "",
-            "RAM": "",
+            "memory": [],
+            "ram": [],
             "network": "",
             "technologies": "",
             "frontCam": "",
