@@ -15,53 +15,53 @@ function Productions(){
 
 
    // TO RUN IN SERVER
-//   const API_URL = process.env.NODE_ENV === 'development'
-//   ? 'http://localhost:3400/data'
-//   : 'https://iplay-backend.onrender.com/data';
+  const API_URL = process.env.NODE_ENV === 'development'
+  ? 'http://localhost:3400/data'
+  : 'https://iplay-backend.onrender.com/data';
 
 
-//    useEffect(() => {
-//       async function fetchProducts() {
-//          try {
-//             const response = await fetch(API_URL, {cache: 'no-store'})
-//             console.log(response.status);
-//             const data = await response.json();
-//             console.log('API Response:', data); //
-//             setProducts(data?.productions || []);
-//             setFilteredProducts(data?.productions || []);
+   useEffect(() => {
+      async function fetchProducts() {
+         try {
+            const response = await fetch(API_URL, {cache: 'no-store'})
+            console.log(response.status);
+            const data = await response.json();
+            console.log('API Response:', data); //
+            setProducts(data?.productions || []);
+            setFilteredProducts(data?.productions || []);
 
-//          } catch (error) {
-//             console.error(error);
-//          }
-//       }
+         } catch (error) {
+            console.error(error);
+         }
+      }
    
-//       fetchProducts();
-//    }, [])
+      fetchProducts();
+   }, [])
 
 
 // TO RUN IN DEV WITH JSON
-const API_URL = process.env.NODE_ENV === 'development'
-? 'http://localhost:3400/productions'
-: 'https://iplay-backend.onrender.com/data';
+// const API_URL = process.env.NODE_ENV === 'development'
+// ? 'http://localhost:3400/productions'
+// : 'https://iplay-backend.onrender.com/data';
 
 
- useEffect(() => {
-    async function fetchProducts() {
-       try {
-          const response = await fetch(API_URL, {cache: 'no-store'})
-          console.log(response.status);
-          const data = await response.json();
-          console.log('API Response:', data); //
-          setProducts(data || []);
-          setFilteredProducts(data || []);
+//  useEffect(() => {
+//     async function fetchProducts() {
+//        try {
+//           const response = await fetch(API_URL, {cache: 'no-store'})
+//           console.log(response.status);
+//           const data = await response.json();
+//           console.log('API Response:', data); //
+//           setProducts(data || []);
+//           setFilteredProducts(data || []);
 
-       } catch (error) {
-          console.error(error);
-       }
-    }
+//        } catch (error) {
+//           console.error(error);
+//        }
+//     }
  
-    fetchProducts();
- }, [])
+//     fetchProducts();
+//  }, [])
    
 
    // Filter products based on search inputs
